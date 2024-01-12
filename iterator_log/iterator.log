@@ -1,0 +1,2 @@
+{'time': datetime.datetime(2024, 1, 12, 20, 16, 0, 913949), 'name_function': 'FlatIterator', 'arguments': {'args': ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), 'kwargs': {}}, 'result': <__main__.FlatIterator object at 0x000001AF5DA7FE80>}
+{'time': datetime.datetime(2024, 1, 12, 20, 16, 0, 914947), 'name_function': 'FlatIterator', 'arguments': {'args': ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), 'kwargs': {}}, 'result': <__main__.FlatIterator object at 0x000001AF5DA7FE80>}

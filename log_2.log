@@ -1,0 +1,4 @@
+{'time': datetime.datetime(2024, 1, 12, 20, 7, 1, 983547), 'name_function': 'hello_world', 'arguments': {'args': (), 'kwargs': {}}, 'result': 'Hello World'}
+{'time': datetime.datetime(2024, 1, 12, 20, 7, 1, 983547), 'name_function': 'summator', 'arguments': {'args': (2, 2), 'kwargs': {}}, 'result': 4}
+{'time': datetime.datetime(2024, 1, 12, 20, 7, 1, 983547), 'name_function': 'div', 'arguments': {'args': (6, 2), 'kwargs': {}}, 'result': 3.0}
+{'time': datetime.datetime(2024, 1, 12, 20, 7, 1, 984545), 'name_function': 'summator', 'arguments': {'args': (4.3,), 'kwargs': {'b': 2.2}}, 'result': 6.5}
